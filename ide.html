@@ -57,7 +57,7 @@ html,body {
             <a class="navbar-brand" href="#">IDE</a>
             <ul class="navbar-nav">
               <li class="nav-item">
-                    <!--<button class="btn btn-success" type="button" id="save" title="Save as .html">Download</button>-->
+                    <button class="btn btn-success" type="button" id="save" title="Save as .html">Save</button>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="https://onlinehtmleditor.herokuapp.com/">Clear</a>
@@ -74,6 +74,8 @@ html,body {
    <iframe id='iframe' frameBorder="0">
    </iframe>
 </div>
+
+<textarea class="col-md-6" name="content" id="content" rows="5" cols="70" disabled="disabled"></textarea>
 
 <script>
 
@@ -132,7 +134,32 @@ function ready(){
     setupEditor();
     update();
 }
+
+
+var textarea = $('#content');
+
+var editor = ace.edit("editor");
+editor.setTheme("ace/theme/twilight");
+editor.getSession().setMode("ace/mode/javascript");
+
+editor.getSession().on('change', function () {
+    textarea.val(editor.getSession().getValue());
+});
+
+textarea.val(editor.getSession().getValue());
+
+
+
+// when document is ready
+document.getElementById("save").onclick = function() {
+            // when clicked the button
+            var content = document.getElementById('content').value;
+            // a [save as] dialog will be shown
+            window.open("data:application/txt," + encodeURIComponent(content), "_self");
+        }
+
 </script>
+
 </body>
 
 </html> 
