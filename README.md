@@ -44,3 +44,15 @@ Added features like save and clear button
 # You'll see a file downloaded like this
 # Don't worry it's not a virus
 ![step 9](chrome_2018-11-05_10-28-50.png)
+# Show in folder
+![step 10](2018-11-05_10-28-59.png)
+# Rename the file
+![step 11](2018-11-05_10-29-26.png)
+# Add .html after your file name
+![step 12](explorer_2018-11-05_10-29-47.png)
+# Voila! 
+![step 13](explorer_2018-11-05_10-29-57.png)
+# Open like any html files
+![step 14](chrome_2018-11-05_10-30-11.png)
+# Or open it on any editor
+
