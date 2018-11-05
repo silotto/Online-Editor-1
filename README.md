@@ -23,4 +23,10 @@ Syntax hightlight----->  Ace Editor cdn
 
 ![image 3](https://raw.githubusercontent.com/chayandatta/Online-Editor/master/screenshot%203.png)
 
-okay so it's working
+from: https://help.github.com/articles/licensing-a-repository/
+This Project Doesn't have any License so
+without a license, the default copyright laws apply, meaning that you(me) retain all rights to your(this) source code and no one may reproduce, distribute, or create derivative works from your(this) work.
+
+But if you want to work on this, you can just simply ask.
+
+
