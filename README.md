@@ -53,6 +53,8 @@ Added features like save and clear button
 # Voila! 
 ![step 13](explorer_2018-11-05_10-29-57.png)
 # Open like any html files
-![step 14](chrome_2018-11-05_10-30-11.png)
 # Or open it on any editor
+
+# LIVE DEMO: https://onlinehtmleditor.herokuapp.com/
+
 
