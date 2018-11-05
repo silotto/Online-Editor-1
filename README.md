@@ -6,7 +6,7 @@ API from: cdnjs.com/libraries/ace/
 Syntax hightlight----->  Ace Editor cdn
 
 --> cdn == content delivery network
-(just the place that hosts the files)
+
 
 ![image 1](https://raw.githubusercontent.com/chayandatta/Online-Editor/master/screenshot%201.png)
 
