@@ -1,6 +1,4 @@
-# Online-Editor
-
-# LIVE DEMO https://onlinehtmleditor.herokuapp.com/
+# LIVE DEMO: https://onlinehtmleditor.herokuapp.com/
 <img src="https://raw.githubusercontent.com/chayandatta/Online-Editor/master/octocat.png" height="240" width="280">
 
 API from: https://cdnjs.com/libraries/ace/
@@ -21,5 +19,5 @@ This Project Doesn't have any License so
 without a license, the default copyright laws apply, meaning that you(me) retain all rights to your(this) source code and no one may reproduce, distribute, or create derivative works from your(this) work.
 
 But if you want to work on this, you can just simply ask.
-
+# LIVE DEMO: https://onlinehtmleditor.herokuapp.com/
 
