@@ -21,3 +21,4 @@ without a license, the default copyright laws apply, meaning that you(me) retain
 But if you want to work on this, you can just simply ask.
 # LIVE DEMO: https://onlinehtmleditor.herokuapp.com/
 
+Added features like save and clear button
