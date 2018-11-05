@@ -1,14 +1,7 @@
 # Online-Editor
 
-LIVE DEMO https://onlinehtmleditor.herokuapp.com/
-
-.
-.
-.
-.
-.
-.
-.
+# LIVE DEMO https://onlinehtmleditor.herokuapp.com/
+<img src="https://raw.githubusercontent.com/chayandatta/Online-Editor/master/octocat.png" height="240" width="280">
 
 API from: https://cdnjs.com/libraries/ace/
 
