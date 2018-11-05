@@ -41,4 +41,6 @@ Added features like save and clear button
 ![step 7](chrome_2018-11-05_10-28-13.png)
 # you'll get a nice msg saying to save as .html
 ![step 8](chrome_2018-11-05_10-28-26.png)
-# 
+# You'll see a file downloaded like this
+# Don't worry it's not a virus
+![step 9](chrome_2018-11-05_10-28-50.png)
