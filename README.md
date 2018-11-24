@@ -14,9 +14,21 @@ Syntax hightlight----->  Ace Editor cdn
 
 ![image 3](https://raw.githubusercontent.com/chayandatta/Online-Editor/master/screenshot%203.png)
 
-from: https://help.github.com/articles/licensing-a-repository/
-This Project Doesn't have any License so
-without a license, the default copyright laws apply, meaning that you(me) retain all rights to your(this) source code and no one may reproduce, distribute, or create derivative works from your(this) work.
+## License
+
+    Copyright 2015 Chayan Datta
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
 
 But if you want to work on this, you can just simply ask.
 # LIVE DEMO: https://onlinehtmleditor.herokuapp.com/
