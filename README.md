@@ -63,7 +63,7 @@ Added features like save and clear button
 # Voila! 
 ![step 13](explorer_2018-11-05_10-29-57.png)
 # Open like any html files
-# Or open it on any editor
+# Or open it using any editor
 
 # LIVE DEMO: https://onlinehtmleditor.herokuapp.com/
 
