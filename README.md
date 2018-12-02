@@ -1,3 +1,13 @@
+So this project is happened because i was watching a youtube video where i saw an AirBnb employee got her internship because she made an ide with all the account creation and terminal and local disk access. 
+yes that's great but i thought why not make a simple ide/editor which will open up without anything to do, 
+i mean any account creation or logging in 
+
+ # so i made it 
+
+there was a syntax highlight problem, you know every bracket and <h1> or <a> stuffs 
+    so i found an open source project 
+which is called ACE cdn, where cdn means content delivery network
+    
 # LIVE DEMO: https://onlinehtmleditor.herokuapp.com/
 
 
