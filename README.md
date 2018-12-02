@@ -2,7 +2,6 @@ So this project is happened because i was watching a youtube video where i saw a
 yes that's great but i thought why not make a simple ide/editor which will open up without anything to do, 
 i mean any account creation or logging in 
 
- # so i made it 
 
 there was a syntax highlight problem, you know every bracket and <h1> or <a> stuffs 
     so i found an open source project 
