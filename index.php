@@ -1,1 +1,1 @@
-<?php include_once("ide.html") ?>
+<?php include_once("index.html") ?>
