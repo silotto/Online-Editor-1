@@ -3,7 +3,20 @@ yes that's great but i thought why not make a simple ide/editor which will open 
 i mean any account creation or logging in 
 
 
-there was a syntax highlight problem, you know every bracket and <h1> or <a> stuffs 
+there was a syntax highlight problem, you know every bracket and <html>
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Page Title</title>
+<meta name="viewport" content="width=device-width, 
+initial-scale=1">
+<link rel="stylesheet" type="text/css" 
+media="screen" 
+href="main.css" />
+<script src="main.js"></script>
+</head>
+
+<body> stuffs
     so i found an open source project 
 which is called ACE cdn, where cdn means content delivery network
     
